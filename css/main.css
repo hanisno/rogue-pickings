@@ -160,7 +160,7 @@ nav ul li a {
 	align-items: flex-start;
   height: auto;
 	padding: 1em 1.4em;
-	border-top: 3px solid #eee;
+	border-top: 1px solid #eee;
 }
 
 .section-a ul {
@@ -223,7 +223,7 @@ footer h6 span {
 	}
 
 	.section-a, .section-b {
-		border-right: 3px solid #eee;
+		border-right: 1px solid #eee;
 	}
 }
 /*================DESKTOP================*/
